@@ -41,10 +41,12 @@ Pokemon Veri Seti Analizi
 
 🛠️ Kurulum ve Çalıştırma
 
-1.Bu depoyu klonlayın:
-git clone https://github.com/kullaniciadi/proje-adi.git
+1.    Bu depoyu klonlayın:
+    
+    git clone [https://github.com/kullaniciadi/proje-adi.git](https://github.com/Rasittekin18/Data_Science.git)
 
-Gerekli kütüphaneleri yükleyin:
-pip install pandas numpy matplotlib seaborn
+2-    Gerekli kütüphaneleri yükleyin:
 
-3- Jupyter Notebook'u başlatın ve DataScience.ipynb dosyasını açın.
+    pip install pandas numpy matplotlib seaborn
+    
+3-    Jupyter Notebook'u başlatın ve DataScience.ipynb dosyasını açın.
