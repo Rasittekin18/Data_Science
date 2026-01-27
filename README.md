@@ -1,4 +1,4 @@
-📊 Veri Bilimi Yolculuğu: Pokemon & Titanic Analizi
+📊 Veri Bilimi Yolculuğu
 
 
 Bu depo, veri biliminin temellerini kapsayan kapsamlı bir keşifsel veri analizi (EDA) çalışmasını içermektedir. Proje, popüler veri setleri üzerinden veri temizleme, görselleştirme ve özellikler arası ilişkileri anlama üzerine odaklanmaktadır.
